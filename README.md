@@ -1,2 +1,19 @@
 # TestAutomation-wordometer-coronaVirus
-This repository is created to do test automation for this website https://www.worldometers.info/coronavirus/ using cypress test automation framework. It is used to test the accessibility to data and compare data in the website to the data from the API
+This repository is created to do test automation for this website https://www.worldometers.info/coronavirus/ using [Cypress.io](https://www.cypress.io/) test automation framework. It is used to test the accessibility to data and compare data in the website to the data from the API.
+
+
+To run those tests in your local machine using operating system (windows10), you should do the following steps:
+
+
+
+  1- Install cypress by running: **npm install cypress --save-dev**
+
+
+
+  2- Run: **npx cypress open**
+
+
+
+  3- Run the tests by clicking on the selected files.
+
+For more information, please visit [Cypress Documentation](https://docs.cypress.io/guides/getting-started/installing-cypress.html#Opening-Cypress)
