@@ -14,6 +14,6 @@ To run those tests in your local machine using operating system (windows10), you
 
 
 
-  3- Run the test cases by clicking on covidDataAccess.spec.js file.
+  3- Run the test cases by clicking on **covidDataAccess.spec.js** file.
 
 For more information, please visit [Cypress Documentation](https://docs.cypress.io/guides/getting-started/installing-cypress.html#Opening-Cypress)
