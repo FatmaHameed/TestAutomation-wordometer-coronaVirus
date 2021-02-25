@@ -1,0 +1,23 @@
+{
+  "name": "TestAutomation-wordometer-coronaVirus",
+  "version": "1.0.0",
+  "description": "This repository is created to do test automation for this website https://www.worldometers.info/coronavirus/ using cypress test automation framework. It is used to test the accessibility to data and compare data in the website to the data from the API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatmaHameed/TestAutomation-wordometer-coronaVirus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatmaHameed/TestAutomation-wordometer-coronaVirus/issues"
+  },
+  "homepage": "https://github.com/FatmaHameed/TestAutomation-wordometer-coronaVirus#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  }
+}
