@@ -1,5 +1,5 @@
-import Home from './pages/home_page';
-import NetherlandsCovidData from './pages/netherlands_data_page';
+import Home from '../pages/home_page';
+import NetherlandsCovidData from '../pages/netherlands_data_page';
 
 describe('Website provide covid data is accessible', () => {
   const home = new Home();
